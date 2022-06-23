@@ -1,3 +1,6 @@
+摩尔排序算法
+
+```
 class Solution {
 public:
     vector<int> majorityElement(vector<int>& nums) {
@@ -39,3 +42,4 @@ public:
 		return res;
     }
 };
+```
